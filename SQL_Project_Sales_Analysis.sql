@@ -1,3 +1,7 @@
+CREATE DATABASE IF NOT EXISTS Marketing_Analytics;
+
+USE Marketing_Analytics;
+
 DROP TABLE IF EXISTS Sales;
 DROP TABLE IF EXISTS Products;
 
@@ -17,6 +21,16 @@ CREATE TABLE Sales (
     Region VARCHAR(50),
     CONSTRAINT fk_product FOREIGN KEY (ProductID) REFERENCES Products(ProductID)
 );
+
+INSERT INTO Products (ProductID, Category, ProductName, UnitCost) VALUES
+(1, 'Electronics', 'Wireless Mouse', 15.00),
+(2, 'Electronics', 'Mechanical Keyboard', 45.00),
+(3, 'Office', 'Ergonomic Chair', 120.00);
+
+INSERT INTO Sales (SaleID, ProductID, SaleDate, Quantity, Revenue, Region) VALUES
+(101, 1, '2026-03-01', 10, 250.00, 'North America'),
+(102, 2, '2026-03-02', 5, 400.00, 'Europe'),
+(103, 3, '2026-03-05', 2, 600.00, 'North America');
 
 WITH ProfitCalc AS (
     SELECT 
