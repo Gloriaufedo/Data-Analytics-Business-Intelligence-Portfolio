@@ -16,7 +16,6 @@ Professional portfolio showcasing SQL Queries, Excel and PowerBI dashboards, and
 * **Key Skills:** Data Transformation & ETL, Advanced DAX Modeling, Relational Data Modeling, Data Visualization & UX Design
   
 **Click the preview image below to explore the live interactive report.**
-[![Executive Dashboard Preview](https://raw.githubusercontent.com/gloriaufedo/YOUR_REPO_NAME/main/images/dashboard_screenshot.png)](https://app.powerbi.com/view?r=eyJrIjoiZTQ0ZTM3MzYtYzQzNi00ZTBlLTljMTMtY2NhNjVjZTgyY2Q2IiwidCI6ImMwZmMxNTU3LTEzMzktNDZkZC05MDk1LWExZjM0ZDdiZmI3ZiJ9)
 * **Live Interactive Report:** [View Full Screen](https://app.powerbi.com/view?r=eyJrIjoiZTQ0ZTM3MzYtYzQzNi00ZTBlLTljMTMtY2NhNjVjZTgyY2Q2IiwidCI6ImMwZmMxNTU3LTEzMzktNDZkZC05MDk1LWExZjM0ZDdiZmI3ZiJ9)
 
 [View Python Project](https://github.com/Gloriaufedo/salary-data-analysis)
