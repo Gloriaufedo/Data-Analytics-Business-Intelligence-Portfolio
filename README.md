@@ -12,4 +12,4 @@ Professional portfolio showcasing SQL Queries, Excel and PowerBI dashboards, and
 ![Dashboard Preview](./Dashboard_Screenshot.png)
 
 ## 🐍 Project 3: Python Data Manipulation
-*Link your existing Python GitHub repo here*
+[View Python Data Analysis](https://github.com/Gloriaufedo/salary-data-analysis)
