@@ -13,12 +13,17 @@ Professional portfolio showcasing SQL Queries, Excel and PowerBI dashboards, and
 
 ## 📊 Project 3: Power BI Sales & Marketing Intelligence Dashboard
 **Objective:** Track overall sales and marketing performance, Evaluate return on ad spend (ROAS), Identify top-performing products and platforms, and Analyze month-over-month trends
-* **Key Skills:** Data Transformation & ETL, Advanced DAX Modeling, Relational Data Modeling, Data Visualization & UX Design
-  
-**Click the preview image below to explore the live interactive report.**
+* **Key Skills:** Data Transformation & ETL, Advanced DAX Modeling, Relational Data Modeling, Data Visualization & UX Design.
 * **Live Interactive Report:** [View Full Screen](https://app.powerbi.com/view?r=eyJrIjoiZTQ0ZTM3MzYtYzQzNi00ZTBlLTljMTMtY2NhNjVjZTgyY2Q2IiwidCI6ImMwZmMxNTU3LTEzMzktNDZkZC05MDk1LWExZjM0ZDdiZmI3ZiJ9)
 
-## 📊 Project 4: Python Employees Salary Analysis
+## 📊 Project 4: Amazon Sales Performance & EDA
+**Objective:** Conduct an Exploratory Data Analysis (EDA) on Amazon sales data to identify product popularity trends, analyze the correlation between discounts and total sales, and evaluate rating distributions.
+* **Key Skills:** Data Storytelling, Scatter Plot Analysis (Correlation), Advanced Filtering.
+* **Live Interactive Report:** [View Full Screen](https://app.powerbi.com/view?r=eyJrIjoiOWI1MzMyNjEtNzBhNy00MjU4LThjOGQtNjBkNmU2ZjUyNTkwIiwidCI6ImMwZmMxNTU3LTEzMzktNDZkZC05MDk1LWExZjM0ZDdiZmI3ZiJ9)
+
+  
+#📈 Project 5: Python Employees Salary Analysis
 **Objective:** Exploratory Data Analysis (EDA) of organizational salary structures to uncover distribution patterns and pay equity insights.
+
 * **Key Skills:** Pandas, Matplotlib, Data Cleaning.
 [View Python Project](https://github.com/Gloriaufedo/salary-data-analysis)
