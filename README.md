@@ -18,4 +18,7 @@ Professional portfolio showcasing SQL Queries, Excel and PowerBI dashboards, and
 **Click the preview image below to explore the live interactive report.**
 * **Live Interactive Report:** [View Full Screen](https://app.powerbi.com/view?r=eyJrIjoiZTQ0ZTM3MzYtYzQzNi00ZTBlLTljMTMtY2NhNjVjZTgyY2Q2IiwidCI6ImMwZmMxNTU3LTEzMzktNDZkZC05MDk1LWExZjM0ZDdiZmI3ZiJ9)
 
+## 📊 Project 4: Python Employees Salary Analysis
+**Objective:** Exploratory Data Analysis (EDA) of organizational salary structures to uncover distribution patterns and pay equity insights.
+* **Key Skills:** Pandas, Matplotlib, Data Cleaning.
 [View Python Project](https://github.com/Gloriaufedo/salary-data-analysis)
