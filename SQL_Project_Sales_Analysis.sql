@@ -16,8 +16,6 @@ CREATE TABLE Sales (
     FOREIGN KEY (ProductID) REFERENCES Products(ProductID)
 );
 
--- 2. Analysis Query: Profitability and Regional Performance
--- Demonstrates CTEs (Common Table Expressions) and Advanced Math
 WITH ProfitCalc AS (
     SELECT 
         S.SaleID,
