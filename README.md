@@ -9,7 +9,8 @@ Professional portfolio showcasing SQL Queries, Excel and PowerBI dashboards, and
 ## 📈 Project 2: Dynamic Sales Performance Dashboard (Excel)
 **Objective:** Developed a fully interactive sales dashboard to track 2023 performance, allowing stakeholders to filter data by month, gender, product category, and age group for insights.
 * **Key Skills:** Pivot Tables, Slicers & Timelines, Advanced Charting, Data Cleaning.
-![Excel Dashboard](./images/EXCEL_DASHBOARD.PNG)
+![View Dashboard](./images/EXCEL_DASHBOARD.PNG)
+![View Slicer Interactivity](./images/Female_Slicer_EXCEL_DASHBOARD.jpg)
   
 ## 📊 Project 3: Power BI Sales & Marketing Intelligence Dashboard
 **Objective:** Track overall sales and marketing performance, Evaluate return on ad spend (ROAS), Identify top-performing products and platforms, and Analyze month-over-month trends
