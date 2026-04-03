@@ -17,7 +17,7 @@ Professional portfolio showcasing SQL Queries, Excel and PowerBI dashboards, and
 **Objective:** Track overall sales and marketing performance, Evaluate return on ad spend (ROAS), Identify top-performing products and platforms, and Analyze month-over-month trends
 * **Key Skills:** Data Transformation & ETL, Advanced DAX Modeling, Relational Data Modeling, Data Visualization & UX Design.
 * **Live Interactive Report:**
-* [View Full Screen](https://app.powerbi.com/view?r=eyJrIjoiZTQ0ZTM3MzYtYzQzNi00ZTBlLTljMTMtY2NhNjVjZTgyY2Q2IiwidCI6ImMwZmMxNTU3LTEzMzktNDZkZC05MDk1LWExZjM0ZDdiZmI3ZiJ9)
+* [View Full Screen](https://app.powerbi.com/view?r=eyJrIjoiZTQ0ZTM3MzYtYzQzNi00ZTBlLTljMTMtY2NhNjVjZTgyY2Q2IiwidCI6ImMwZmMxNTU3LTEzMzktNDZkZC05MDk1LWExZjM0ZDdiZmI3ZiJ9&pageName=814c9d8aca2b2b0390f5)
 
 ## 📊 Project 4: Amazon Sales Performance & EDA
 **Objective:** Conduct an Exploratory Data Analysis (EDA) on Amazon sales data to identify product popularity trends, analyze the correlation between discounts and total sales, and evaluate rating distributions.
