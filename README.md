@@ -1,10 +1,10 @@
 # 📊 Data Analytics & Business Intelligence Portfolio
 
-Hi, I’m **Gloria Austin** — a **Data Analyst** passionate about transforming messy business data into clear, actionable insights that support smarter decisions.
+Hi, I’m **Gloria Austin**, a **Data Analyst** passionate about transforming messy business data into clear, actionable insights that support smarter decisions.
 
 This portfolio showcases end-to-end analytics projects across **SQL, Excel, Power BI, and Python**, focused on solving real business problems in **sales, marketing, profitability, and workforce analytics**.
 
-I build dashboards and analyses that go beyond visuals — I focus on uncovering trends, identifying performance gaps, and translating data into business recommendations.
+I build dashboards and analyses that go beyond visuals by focusing on uncovering trends, identifying performance gaps, and translating data into business recommendations.
 
 ---
 
