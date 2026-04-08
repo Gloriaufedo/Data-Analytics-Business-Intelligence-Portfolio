@@ -153,14 +153,14 @@ Based on the findings, the following recommendations can help improve retention 
 This project folder contains:
 
 - `customer_retention_churn_analysis.sql` → Full SQL workflow for transformation, retention analysis, churn logic, and Power BI views
-- `Customer_Retention_Churn_Dashboard.pbix` → Power BI dashboard file
+- `customer_retention_and_churn_dashboard.pbix` → Power BI dashboard file
 - `customer_retention_churn_dashboard.png` → Dashboard preview image
 - `README.md` → Project documentation
 
 ---
 
 ## 🖼️ Dashboard Preview
-![Customer Retention and Churn Dashboard](dashboard_screenshot.png)
+![Customer Retention and Churn Dashboard](customer_retention_churn_dashboard.png)
 
 ---
 
