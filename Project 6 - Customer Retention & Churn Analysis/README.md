@@ -178,8 +178,8 @@ This project demonstrates my ability to:
 ---
 
 ## 👩🏽‍💻 Author
-**Gloria Austin Ufedo**  
-Data Analyst 
+**Gloria Ufedo Austin**  
+Data Analyst | SQL, Excel, PowerBI
 
 I enjoy turning raw data into clear insights and building dashboards that support better business decisions.
 
