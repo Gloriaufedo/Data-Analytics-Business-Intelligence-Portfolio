@@ -185,19 +185,6 @@ What does the salary distribution reveal about pay structure, variability, and p
 
 ---
 
-## 🎯 What These Projects Demonstrate
-
-Across these projects, I consistently apply analytics to:
-
-- Clean and structure raw data  
-- Build interactive dashboards for decision-making  
-- Track KPIs and business performance  
-- Compare revenue vs profitability  
-- Analyze customer, product, and campaign trends  
-- Communicate findings in a stakeholder-friendly format  
-
----
-
 ## 📊 Project 6: Customer Retention & Churn Analysis (SQL + Power BI + Excel)
 
 **Objective:** Analyzed customer purchase behavior to evaluate retention, churn risk, repeat purchase patterns, and revenue contribution. Built an executive-style dashboard to help stakeholders understand customer value and identify opportunities for retention-focused growth.
@@ -251,15 +238,28 @@ Across these projects, I consistently apply analytics to:
 
 ---
 
+## 🎯 What These Projects Demonstrate
+
+Across these projects, I consistently apply analytics to:
+
+- Clean and structure raw data  
+- Build interactive dashboards for decision-making  
+- Track KPIs and business performance  
+- Compare revenue vs profitability  
+- Analyze customer, product, and campaign trends  
+- Communicate findings in a stakeholder-friendly format
+  
+---
+
 ## 🤝 Let’s Connect
 
 I’m currently open to opportunities in:
 
-- **Data Analyst**
-- **Business Intelligence Analyst**
-- **Reporting Analyst**
-- **Operations Analyst**
-- **Marketing / Growth Analyst**
+- **Data Analysis**
+- **Business Intelligence Analysis**
+- **Reporting Analysis**
+- **Operations Analysis**
+- **Marketing / Growth Analysis**
 
 📧 **Email:** gloriaaustin002@gmail.com  
 🔗 **LinkedIn:** [Gloria Austin](http://www.linkedin.com/in/gloria-austin-143334292)
