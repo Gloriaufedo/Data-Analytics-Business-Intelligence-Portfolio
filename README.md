@@ -198,6 +198,59 @@ Across these projects, I consistently apply analytics to:
 
 ---
 
+## 📊 Project 6: Customer Retention & Churn Analysis (SQL + Power BI + Excel)
+
+**Objective:** Analyzed customer purchase behavior to evaluate retention, churn risk, repeat purchase patterns, and revenue contribution. Built an executive-style dashboard to help stakeholders understand customer value and identify opportunities for retention-focused growth.
+
+### **Business Questions**
+- How many customers are repeat buyers vs one-time buyers?
+- What percentage of customers are retained vs churned?
+- How much revenue comes from repeat customers compared to one-time customers?
+- How does customer activity and revenue trend over time?
+- Which purchase frequency segment contributes the most revenue?
+
+### **Tools Used**
+- **Excel** – Data cleaning and preparation  
+- **MySQL** – Data transformation, customer-level analysis, retention and churn logic  
+- **Power BI** – Dashboard design and business storytelling  
+
+### **Key Skills Demonstrated**
+- Data cleaning and CSV preparation in Excel  
+- SQL aggregation and transformation  
+- Customer segmentation (one-time vs repeat buyers)  
+- Retention and churn analysis using a 90-day inactivity rule  
+- KPI development and executive dashboard design in Power BI  
+- Business insight generation and recommendation writing  
+
+### **Key Metrics**
+- **Total Customers:** 2,576  
+- **Total Orders:** 6,543  
+- **Total Revenue:** 2.95M  
+- **Average Order Value:** 451.31  
+- **Repeat Purchase Rate:** 47.71%  
+- **Retention Rate:** 76.01%  
+- **Churn Rate:** 23.99%  
+
+### **Key Insights**
+- Repeat customers generated **2.39M** in revenue, contributing **81.04%** of total revenue despite representing less than half of the customer base.  
+- One-time customers contributed only **18.96%** of total revenue, highlighting the importance of converting first-time buyers into repeat customers.  
+- The business retained **76.01%** of customers, but **23.99%** were classified as churned using a 90-day inactivity rule, revealing opportunities for win-back strategies.  
+- Customers with higher order frequency contributed the largest share of revenue, showing a strong link between repeat purchases and customer lifetime value.  
+
+### **Dashboard Highlights**
+- KPI cards for customer, order, revenue, retention, and churn metrics  
+- Revenue contribution by customer type  
+- Customer base split by churn status  
+- Revenue by purchase frequency segment  
+- Monthly revenue and active customer trend  
+- Interactive date slicer for time-based filtering  
+
+📁 **Project Folder:** [View Project 6 Files](./Project%206%20-%20Customer%20Retention%20%26%20Churn%20Analysis/)
+
+!🖼️ **Dashboard Preview:** See `customer_retention_churn_dashboard.png` inside the project folder.
+
+---
+
 ## 🤝 Let’s Connect
 
 I’m currently open to opportunities in:
