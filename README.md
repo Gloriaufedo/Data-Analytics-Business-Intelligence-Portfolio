@@ -238,7 +238,7 @@ What does the salary distribution reveal about pay structure, variability, and p
 
 ---
 
-## 📊 Project 7: Gloal Sales and Operations Performance Analysis (Power BI)
+## 📊 Project 7: Global Sales and Operations Performance Analysis (Power BI)
 
 **Overview:** This project analyzes the sales performance of Northwind Traders using Power BI, focusing on uncovering patterns in revenue, product performance, customer contribution, and operational efficiency. The goal was to move beyond surface-level metrics and critically evaluate what the data actually reveals.
 
@@ -254,7 +254,7 @@ What does the salary distribution reveal about pay structure, variability, and p
 - Power BI – data modeling, analysis, and dashboard development
 
 ### **Dataset**
-The Northwind traders dataset contains transactional sales data, including:
+The Northwind Traders Dataset contains transactional sales data, including:
 
 - Orders and order details
 - Products and categories
@@ -264,14 +264,14 @@ The Northwind traders dataset contains transactional sales data, including:
 Data was imported directly into Power BI by loading CSV files.
 
 ### **Key Insights**
-- Year-on-Year growth is misleading
+- **Year-on-Year growth is misleading**
 A 179% increase in revenue initially suggests strong performance. However, the dataset only includes partial data for 2013 and 2015, making the comparison unreliable.
-- Discontinued products still drive revenue
+- **Discontinued products still drive revenue**
 Discontinued products contribute approximately 14.61% of total revenue, raising questions about product lifecycle decisions.
-- Discounts do not consistently improve revenue
+- **Discounts do not consistently improve revenue**
 Higher discounts do not show a clear positive impact on revenue, suggesting potential margin loss without significant benefit.
-Customer contribution is uneven
-- A small group of customers accounts for a large share of total revenue, highlighting the importance of customer-focused strategies.
+- **Customer contribution is uneven**
+A small group of customers accounts for a large share of total revenue, highlighting the importance of customer-focused strategies.
 - Shipping costs vary significantly by region
 Some regions incur higher shipping costs without clear evidence of proportional revenue benefit.
 
@@ -289,9 +289,9 @@ The Power BI dashboard includes:
 -  Focus on high-value customers for better retention
 - Optimize shipping costs in high-expense regions
 - Ensure accurate time comparisons when evaluating growth
-
+   
 🌐 **Live Interactive Dashboard:**  
-[View Full Screen Report]([https://app.powerbi.com/view?r=eyJrIjoiOWI1MzMyNjEtNzBhNy00MjU4LThjOGQtNjBkNmU2ZjUyNTkwIiwidCI6ImMwZmMxNTU3LTEzMzktNDZkZC05MDk1LWExZjM0ZDdiZmI3ZiJ9](https://app.powerbi.com/view?r=eyJrIjoiMzM5NGNhYmYtMWQzMS00Zjk3LWIzODMtYWJiNjdhNzU3YTdiIiwidCI6ImMwZmMxNTU3LTEzMzktNDZkZC05MDk1LWExZjM0ZDdiZmI3ZiJ9&pageName=624f61e09829e77106e2))
+[View Full Screen Report](https://app.powerbi.com/view?r=eyJrIjoiMzM5NGNhYmYtMWQzMS00Zjk3LWIzODMtYWJiNjdhNzU3YTdiIiwidCI6ImMwZmMxNTU3LTEzMzktNDZkZC05MDk1LWExZjM0ZDdiZmI3ZiJ9&pageName=624f61e09829e77106e2)
 
 ---
 
