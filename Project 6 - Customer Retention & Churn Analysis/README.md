@@ -178,9 +178,9 @@ This project demonstrates my ability to:
 ---
 
 ## 👩🏽‍💻 Author
-**Gloria Ufedo Austin**  
-Data Analyst | SQL, Excel, PowerBI
 
-I enjoy turning raw data into clear insights and building dashboards that support better business decisions.
+**Gloria Austin**  
+*Business Intelligence Analyst | Data Analyst*
 
----
+**Core Competencies:**  
+`Business Intelligence` | `Data Analytics` | `Power BI` | `DAX` | `SQL` | `PostgreSQL` | `Excel` | `KPI Development` | `Executive Reporting`
