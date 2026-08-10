@@ -212,3 +212,13 @@ The dashboard is designed to allow users to explore the dataset interactively ra
 * 👥 **Social-media sampling bias:** Twitter users are not a perfect representation of the general population. The findings describe Twitter conversations, rather than public opinion across the entire population.
 * 💬 **Sentiment classification:** Sentiment scores simplify complex human language into numerical categories. Sarcasm, context, ambiguity and domain-specific language may not always be captured accurately.
 * 📅 **Dataset period:** The dataset covers 2006–2019, meaning the analysis does not represent climate-related conversations after 2019.
+
+---
+
+## 👩🏽‍💻 Author
+
+**Gloria Austin**  
+*Business Intelligence Analyst | Data Analyst*
+
+**Core Competencies:**  
+`Business Intelligence` | `Data Analytics` | `Power BI` | `DAX` | `SQL` | `PostgreSQL` | `Excel` | `KPI Development` | `Executive Reporting`
