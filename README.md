@@ -522,6 +522,7 @@ Upcoming portfolio projects include:
 💻 **GitHub:** https://github.com/Gloriaufedo
 
 💻 **Portfolio:** https://gloriaufedo.github.io
+
 ---
 
 ⭐ *If you found these projects interesting, feel free to explore the repositories or connect with me on LinkedIn. I'm always open to learning, collaboration, and opportunities in Business Intelligence, Data Analytics, and Reporting.*
