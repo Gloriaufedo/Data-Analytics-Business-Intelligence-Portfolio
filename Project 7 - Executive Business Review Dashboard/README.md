@@ -141,24 +141,5 @@ I use data, analytics, and business intelligence tools to transform business act
 **Core Areas:**
 `Business Intelligence` | `Data Analytics` | `Excel` | `Power BI` | `SQL` | `KPI Development` | `Operational Analytics` | `Executive Reporting` | `Data Storytelling` | `PostgreSQL` | `Python`
 
----
-
-## ⭐ Project Summary
-
-| Category | Details |
-| :--- | :--- |
-| **Project** | Executive Business Reporting |
-| **Company** | Apex Retail Group |
-| **Industry** | Consumer Electronics Retail |
-| **Tool** | Microsoft Excel |
-| **Markets** | North America, Europe & Asia |
-| **Core KPIs** | Revenue, Profit, Margin, Orders, Customers, Units Sold |
-| **Data Model** | Star Schema |
-| **Fact Table** | Sales |
-| **Main Output** | Interactive Executive Reporting Dashboard |
-
----
-
-## 📌 Key Takeaway
 
 The EBR solution demonstrates an end-to-end approach to Excel-based Business Intelligence, combining structured data preparation, analytical modelling, KPI development, and interactive executive reporting to support better business decisions.
